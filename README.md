@@ -1,0 +1,1 @@
+# React routerのoutletを2階層にした際、上位のoutletが切り替わっても下部のoutletの元々いたページに直接戻れる実装
